@@ -27,22 +27,6 @@ This repository contains the code and inventory control system developed using V
 
 ---
 
-## 📂 Como Contribuir / How to Contribute
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para suas alterações (`git checkout -b feature/novo-recurso`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona novo recurso'`).
-4. Faça push para sua branch (`git push origin feature/novo-recurso`).
-5. Abra um pull request.
-
-1. Fork this repository.
-2. Create a branch for your changes (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Adds new feature'`).
-4. Push to your branch (`git push origin feature/new-feature`).
-5. Open a pull request.
-
----
-
 ## 📄 Licença / License
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
