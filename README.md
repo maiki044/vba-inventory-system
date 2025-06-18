@@ -13,21 +13,6 @@ This repository contains the code and inventory control system developed using V
 - Alertas de estoque baixo: Receba notificações quando o estoque de um produto atingir um limite baixo.
 - Relatórios de estoque: Gere relatórios detalhados sobre os produtos em estoque.
 
----
-
-## 📂 Como Usar / How to Use
-
-1. Baixe o arquivo Excel `.xlsm` para o seu computador.
-2. Abra o arquivo no Excel e ative as macros.
-3. Utilize as funcionalidades do sistema diretamente na planilha para adicionar produtos e controlar o estoque.
-
-1. Download the `.xlsm` Excel file to your computer.
-2. Open the file in Excel and enable macros.
-3. Use the system functionalities directly on the spreadsheet to add products and control stock.
-
----
-
-## 📄 Licença / License
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
